@@ -15,6 +15,7 @@ public class SelectionSort {
             //注意这里操作索引而不是对应的值
             int min=i;
             for (int j = i+1; j < list.length; j++) {
+                //min表示了j中小于list[i]且最小的那个值的索引
                 if (list[j] < list[min]) {
                     min=j;
                 }
