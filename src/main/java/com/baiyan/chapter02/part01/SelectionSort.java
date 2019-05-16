@@ -1,6 +1,4 @@
-package com.baiyan.chapter02;
-
-import java.util.Comparator;
+package com.baiyan.chapter02.part01;
 
 /**
  * @Auther: peilongcheng

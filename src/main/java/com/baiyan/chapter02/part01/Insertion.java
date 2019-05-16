@@ -1,4 +1,4 @@
-package com.baiyan.chapter02;
+package com.baiyan.chapter02.part01;
 
 /**
  * @Auther: peilongcheng
